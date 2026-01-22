@@ -1,0 +1,33 @@
+log-token
+log-token
+[0mGET / [36m304[0m 7.294 ms - -[0m
+[0mGET / [36m304[0m 1.700 ms - -[0m
+[0mGET / [36m304[0m 1.286 ms - -[0m
+[0mGET / [36m304[0m 0.578 ms - -[0m
+[0mGET / [36m304[0m 0.768 ms - -[0m
+[0mGET / [36m304[0m 0.369 ms - -[0m
+[0mGET / [36m304[0m 0.648 ms - -[0m
+[0mGET / [32m200[0m 3.345 ms - 1718[0m
+[0mGET /favicon.ico [33m404[0m 2.080 ms - 150[0m
+[0mPOST /submit [36m302[0m 3.061 ms - 109[0m
+[0mGET /details?name=kaka&rollno=S235435346&club=Drama&memberType=Secretary [32m200[0m 1.103 ms - 982[0m
+[0mPOST /submit [36m302[0m 1.043 ms - 109[0m
+[0mGET /details?name=kaka&rollno=S235435346&club=Drama&memberType=Secretary [36m304[0m 0.777 ms - -[0m
+[0mGET / [36m304[0m 0.360 ms - -[0m
+[0mGET / [36m304[0m 0.444 ms - -[0m
+[0mPOST /submit [36m302[0m 0.741 ms - 109[0m
+[0mGET /details?name=kaka&rollno=S235435346&club=Drama&memberType=Secretary [36m304[0m 0.882 ms - -[0m
+[0mGET / [36m304[0m 0.351 ms - -[0m
+[0mPOST /submit [36m302[0m 0.882 ms - 109[0m
+[0mGET /details?name=kaka&rollno=S235435346&club=Drama&memberType=Secretary [36m304[0m 0.692 ms - -[0m
+[0mGET / [32m200[0m 3.148 ms - 1718[0m
+[0mPOST /submit [36m302[0m 2.858 ms - 109[0m
+[0mGET /details?name=kaka&rollno=S235435346&club=Drama&memberType=Secretary [36m304[0m 1.966 ms - -[0m
+[0mGET /details?name=kaka&rollno=S235435346&club=Drama&memberType=Secretary [36m304[0m 0.905 ms - -[0m
+[0mGET /details?name=kaka&rollno=S235435346&club=Drama&memberType=Secretary [36m304[0m 1.127 ms - -[0m
+[0mGET /details?name=kaka&rollno=S235435346&club=Drama&memberType=Secretary [36m304[0m 0.770 ms - -[0m
+[0mGET /details?name=kaka&rollno=S235435346&club=Drama&memberType=Secretary [36m304[0m 0.810 ms - -[0m
+[0mGET /details [32m200[0m 0.774 ms - 60[0m
+[0mGET / [36m304[0m 0.341 ms - -[0m
+[0mGET /details?name=kaka&rollno=S235435346&club=Drama&memberType=Secretary [36m304[0m 1.082 ms - -[0m
+[0mGET /details?name=kaka&rollno=S235435346&club=Drama&memberType=Secret [32m200[0m 0.762 ms - 979[0m
